@@ -1,0 +1,5 @@
+*.code-workspace
+*.db
+*.log
+/__pycache__/*
+/test/*
